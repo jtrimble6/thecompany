@@ -1,0 +1,14 @@
+{
+  "main.css": "/thecompany/static/css/main.32edb215.chunk.css",
+  "main.js": "/thecompany/static/js/main.c2102a23.chunk.js",
+  "main.js.map": "/thecompany/static/js/main.c2102a23.chunk.js.map",
+  "runtime~main.js": "/thecompany/static/js/runtime~main.72f96650.js",
+  "runtime~main.js.map": "/thecompany/static/js/runtime~main.72f96650.js.map",
+  "static/js/2.ba1ca5ba.chunk.js": "/thecompany/static/js/2.ba1ca5ba.chunk.js",
+  "static/js/2.ba1ca5ba.chunk.js.map": "/thecompany/static/js/2.ba1ca5ba.chunk.js.map",
+  "index.html": "/thecompany/index.html",
+  "precache-manifest.3e1c541e28e3984c37063505bb88efa6.js": "/thecompany/precache-manifest.3e1c541e28e3984c37063505bb88efa6.js",
+  "service-worker.js": "/thecompany/service-worker.js",
+  "static/css/main.32edb215.chunk.css.map": "/thecompany/static/css/main.32edb215.chunk.css.map",
+  "static/media/logo.svg": "/thecompany/static/media/logo.5d5d9eef.svg"
+}
