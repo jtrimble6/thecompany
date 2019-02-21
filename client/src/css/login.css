@@ -1,0 +1,13 @@
+.formContainer {
+    margin-top: 100px;
+}
+
+.formLogin {
+    color: gold;
+    max-width: 60%;
+    margin-left: 20%;
+}
+
+a {
+    color: white;
+}
